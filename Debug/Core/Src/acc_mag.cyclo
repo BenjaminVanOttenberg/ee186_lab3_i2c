@@ -1,0 +1,5 @@
+../Core/Src/acc_mag.c:46:6:squwak_acc_mag	1
+../Core/Src/acc_mag.c:55:6:acc_init	1
+../Core/Src/acc_mag.c:69:6:sample_raw_acc_data	1
+../Core/Src/acc_mag.c:84:6:convert_raw_acc_to_force	1
+../Core/Src/acc_mag.c:90:6:sample_converted_acc_data	1
